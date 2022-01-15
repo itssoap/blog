@@ -2,16 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/posts/hello-world/</loc>
+    <loc>/post/hello-world/</loc>
     <lastmod>2022-01-15T15:12:16+05:30</lastmod>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>/post/</loc>
     <lastmod>2022-01-15T15:12:16+05:30</lastmod>
   </url><url>
     <loc>/</loc>
     <lastmod>2022-01-15T15:12:16+05:30</lastmod>
   </url><url>
     <loc>/categories/</loc>
+  </url><url>
+    <loc>/series/</loc>
   </url><url>
     <loc>/tags/</loc>
   </url>
