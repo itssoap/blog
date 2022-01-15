@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Soap&#39;s Blog</title>
+    <link>/</link>
+    <description>Recent content on Soap&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Jan 2022 15:12:16 +0530</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>/posts/hello-world/</link>
+      <pubDate>Sat, 15 Jan 2022 15:12:16 +0530</pubDate>
+      
+      <guid>/posts/hello-world/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
